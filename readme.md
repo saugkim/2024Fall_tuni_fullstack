@@ -16,6 +16,11 @@ git push
 **course materials**
 
 https://65dd992612ff519bb404b248--unique-rolypoly-e01631.netlify.app/a_html_and_dom/
+
+<br>
+
+**online file validator**
+
 https://validator.w3.org/nu/#file
 
 <br>
