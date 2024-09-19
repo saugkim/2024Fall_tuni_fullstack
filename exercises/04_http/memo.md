@@ -21,13 +21,16 @@ curl -H "Accept: application/json" localhost:3000
 
 ```
 
-**ex6**  
+**ex6 API testing**  
 ```
-curl -H "Accept: application/json" localhost:3000
+curl localhost:3000/
+curl localhost:3000/classical
+curl localhost:3000/dystopy
+curl localhost:3000/somethingelse
 
 ```
 
-**ex7**
+**ex7 auto-testing**
 
 ```
 package.json
