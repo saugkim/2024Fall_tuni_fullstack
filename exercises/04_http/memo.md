@@ -11,7 +11,9 @@ curl -H "Accept: application/json" localhost:3000
 
 **ex4**  
 ```
-curl -H "Accept: application/json" localhost:3000
+ curl --location --request POST 'localhost:3000' \
+      --header 'Content-Type: text/plain' \
+      --data-raw 'All together now!'
 
 ```
 
