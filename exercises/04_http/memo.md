@@ -1,4 +1,4 @@
-**ex2**  
+**ex2 Create Server**  
 ```
 curl localhost:3000
 ```
