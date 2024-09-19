@@ -5,7 +5,7 @@ curl localhost:3000
 
 **ex3**  
 ```
-curl -H "Accept: application/json" localhost:3000
+curl localhost:3000
 
 ```
 
