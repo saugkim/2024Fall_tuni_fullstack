@@ -3,13 +3,13 @@
 curl localhost:3000
 ```
 
-**ex3**  
+**ex3 Request Headers**  
 ```
 curl localhost:3000
 
 ```
 
-**ex4**  
+**ex4 Echo server**  
 ```
  curl --location --request POST 'localhost:3000' \
       --header 'Content-Type: text/plain' \
@@ -17,13 +17,13 @@ curl localhost:3000
 
 ```
 
-**ex5**  
+**ex5 ContentType**  
 ```
 curl -H "Accept: application/json" localhost:3000
 
 ```
 
-**ex6 API testing**  
+**ex6 Routing**  
 ```
 curl localhost:3000/
 curl localhost:3000/classical
@@ -32,7 +32,7 @@ curl localhost:3000/somethingelse
 
 ```
 
-**ex7 auto-testing**
+**ex7 API testing**
 
 ```
 package.json
