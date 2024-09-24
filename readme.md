@@ -29,3 +29,13 @@ https://validator.w3.org/nu/#file
 
 
 https://65dd992612ff519bb404b248--unique-rolypoly-e01631.netlify.app/a_html_and_dom/#hands-on-semantic-tags-validation-and-the-dom-tree
+
+
+https://yanwei-liu.medium.com/using-web-browser-on-ubuntu-server-8076e1634967
+
+open website with NO-GUI Server
+
+```
+sudo apt-get install w3m
+w3m -v http://www.google.com
+```
