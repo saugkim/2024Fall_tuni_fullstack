@@ -39,3 +39,16 @@ open website with NO-GUI Server
 sudo apt-get install w3m
 w3m -v http://www.google.com
 ```
+
+
+
+**05 Cookies ex5 express**
+
+```
+curl localhost:3000/
+curl localhost:3000/about
+curl localhost:3000/contact
+curl localhost:3000/user/username?age=18
+curl localhost:3000/user/username
+```
+
