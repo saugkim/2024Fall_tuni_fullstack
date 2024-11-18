@@ -1,0 +1,22 @@
+## CSS Grid layout
+
+### CSS grid layout to style the online shop
+
+**CSS Grid for the online shop**
+
+**CSS Grid layout**  
+In this exercise the HTML elements created in the previous exercise are positioned with CSS. See Fig.1 for the positioning of page elements that needs to be achieved. After the exercise the page displayed your browser should be similar.
+
+
+
+
+**Solving the exercise**  
+  - Open the exercise directory exercises/02_css/ex4
+  - Copy the file index.html from the previous exercise to this directory.
+  - Implement the TODOs in styles.css file.
+  - The styles.css file pre-defines some styles for elements in the HTML, such as background colors
+  - The grader checks the relative positioning: header must be the topmost element, followed by main and footer.
+  - In main, it is important that sections are in the same column on the left, as well as aside elements on their own column on the right. In the footer, the two nav elements must be side-by-side.
+  - Do NOT add any text, images or any other type of content inside the elements!
+  - Commit your changes to your GitLab repository
+  - Submit your work below
