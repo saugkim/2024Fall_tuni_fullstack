@@ -64,3 +64,11 @@ curl localhost:3000/user/username?age=18
 curl localhost:3000/user/username
 ```
 
+
+link 
+
+HY   
+https://fullstackopen.com/en/part9/typing_an_express_app#let-there-be-code 
+
+Aalto   
+https://fitech101.aalto.fi/courses/web-software-development/part-2/3-first-web-applications-with-deno
